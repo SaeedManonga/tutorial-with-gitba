@@ -25,7 +25,7 @@
         <i class="fa fa-bars" id="openMenu" onclick="showMenu()"></i>
     </nav>
 
-    <h1>Projects</h1>
+    <h1>Recent Projects</h1>
 </section>   
 <!------projects content---->
  
